@@ -1,5 +1,7 @@
 # StoutFacultyCVGrabber
-Me and several employees were tasked with manually going through the entire UW-Stout directory, filling out an excel spreadsheet with faculty information, and downloading CVs if they had any. I remarked to my manager I could create a script to do the job in a fraction of the time and for funsies I decided to do it.
+Me and several employees were tasked with manually going through the entire UW-Stout directory, filling out an excel spreadsheet with faculty information, and downloading CVs if they had any. I remarked to my manager I could create a script to do the job in a fraction of the time and for funsies I decided to do it. 
+
+(They gave me explicit approval to do this for work and my bosses were impressed and liked what I had done, I am not in trouble for webscraping, please review the IT resource usage policy and local laws before scraping any part of a website not belonging to you. Do not do it with the intent on using up their resources or DOSing them in any way. I made the script with the intention to help and had approval. Is this long explination necesary, maybe not, but I am covering my toosh)
 
 This is not the most efficient nor pretty code I've ever made. But it does run.
 
